@@ -1,0 +1,22 @@
+nav{
+    font-weight: bold;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding:  1.5em;
+    border-bottom: 2px solid black;
+    
+}
+img{
+   width: 30%;
+   margin: calc(10%/10);
+   padding: 0.5em;
+   
+}
+img:hover{
+   transform: scale(1.2); /* Scale up the image */
+   
+}
+body{
+    background-color: seashell;
+}
